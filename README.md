@@ -1,5 +1,8 @@
 # Chaospager Infos
-All official infos about the Chaospager developed by Signalspielplatz
+
+All official information about the Chaospager developed by Signalspielplatz
+
+# About the project
 
 It all started as a spontanous idea for 38c3: We thought "Why not bring a POCSAG transmitter to congress? But without receivers, no one will be able to use the system - so why not create our own pager project?"
 
