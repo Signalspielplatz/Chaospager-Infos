@@ -1,6 +1,6 @@
-# Chaospager Hardware
+# ChaosPager Hardware
 
-The 39c3 Prototypes are based on a mainboard which holds evevrything together and has some soldered on sub-PCBs for logical fuctions.
+The 39c3 Prototypes are based on a mainboard which holds everything together and has some soldered on sub-PCBs for logical fuctions.
 
 ## Mainboard
 
