@@ -12,7 +12,7 @@ It all started as a spontanous idea for 38c3: We thought "Why not bring a POCSAG
 
 In an effort of building a first pager prototype in just two months (brainstorming phase to finished device), we succeeded our goal and gave a talk about our project and ideas. Besides reaching many interested creatures of you (the Chaos Community), we attracted the attention of CERT who showed interest in our devices. At EasterHegg22, we conducted our first experiments for this cooperation and clarified the requirements of CERT for our system.
 
-Now, in collaboration with CERT (https://mastodon.social/@c3cert@chaos.social) and DL0TUH, we introduce the new prototype featuring a custom HF frontend, complete redesign of the board, new firmware and additional features!
+Now, in collaboration with [CERT](https://mastodon.social/@c3cert@chaos.social) and [DL0TUH](https://mastodon.social/@DL0TUH), we introduce the new prototype featuring a custom HF frontend, complete redesign of the board, new firmware and additional features!
 
 ## Join Our Talk at 39c3!
 
@@ -38,4 +38,4 @@ Please note that we cannot guarantee anything during operation, as we also need 
 
 ## Further updates until the congress
 
-In the meantime until congress, make sure to follow us on Mastodon, were we will post regular updates of our project: https://mastodon.social/@signalspielplatz
+In the meantime until congress, make sure to follow us on Mastodon, were we will post regular updates of our project: [https://mastodon.social/@signalspielplatz](https://mastodon.social/@signalspielplatz)
