@@ -1,8 +1,8 @@
-# Chaospager Infos
+# ChaosPager Infos
 
-All official information about the Chaospager developed by Signalspielplatz
+All official information about the ChaosPager developed by Signalspielplatz
 
-> ❗️Impotant: The project is in active development and specifications may change without updating this page. All information are preliminary.
+> ❗️Important: The project is in active development and specifications may change without updating this page. All information are preliminary.
 
 All about the hardware can be found [HERE](/Hardware.md)
 
