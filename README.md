@@ -2,6 +2,8 @@
 
 All official information about the Chaospager developed by Signalspielplatz
 
+All about the hardware can be found [HERE](/Hardware.md)
+
 # Blogpost from C3 Blog
 
 ## About the project
