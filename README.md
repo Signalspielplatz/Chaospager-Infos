@@ -18,7 +18,7 @@ Now, in collaboration with [CERT](https://mastodon.social/@c3cert@chaos.social) 
 
 ## Join Our Talk at 39c3!
 
-If you are interested in our project, please join our talk on 28. Dec 2025 at 14:45 (UTC+1) in Saal 1. Here, we will talk about the exploration phase of the initial pager idea, where we are now, what the challenges were and what our next goals are. We will also talk about our custom infrastructure for POCSAG transmitters and the goals of connecting it to THOT (CERTs own dispatch software).
+If you are interested in our project, please join our talk on 28. Dec 2025 at 14:45 (UTC+1) in Saal 1. Here, we will talk about the exploration phase of the initial pager idea, where we are now, what the challenges were and what our next goals are. We will also talk about our custom infrastructure for POCSAG transmitters and the goals of connecting it to THOT (CERT's own dispatch software).
 
 If you would like to obtain a general sense of what it takes to do such a project, if you are interested in how to define requirements when developing critical infrastructure, or if you would like to get an insight of our engineers perspective on the project (e.g. experimental design, hardware design, etc.), this talk is for you! Don’t worry: We designed the talk in a way so that it'll be easy to follow even if you have no prior experience in this field.
 
