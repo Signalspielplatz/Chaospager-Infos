@@ -2,6 +2,8 @@
 
 All official information about the Chaospager developed by Signalspielplatz
 
+> ❗️Impotant: The project is in active development and specifications may chage without updating this page. All information are preliminary.
+
 All about the hardware can be found [HERE](/Hardware.md)
 
 # Blogpost from C3 Blog
