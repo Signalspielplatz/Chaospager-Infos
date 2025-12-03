@@ -10,7 +10,7 @@ All about the hardware can be found [HERE](/Hardware.md)
 
 ## About the project
 
-It all started as a spontanous idea for 38c3: We thought "Why not bring a POCSAG transmitter to congress? But without receivers, no one will be able to use the system - so why not create our own pager project?"
+It all started as a spontaneous idea for 38c3: We thought "Why not bring a POCSAG transmitter to congress? But without receivers, no one will be able to use the system - so why not create our own pager project?"
 
 In an effort of building a first pager prototype in just two months (brainstorming phase to finished device), we succeeded our goal and gave a talk about our project and ideas. Besides reaching many interested creatures of you (the Chaos Community), we attracted the attention of CERT who showed interest in our devices. At EasterHegg22, we conducted our first experiments for this cooperation and clarified the requirements of CERT for our system.
 
