@@ -1,4 +1,5 @@
 # Chaospager FAQ
+(For explanations of some basic terminology, go to [Glossary](#glossary)
 
 **Q: What model of pagers are you using?**  
 A: We're building our own pagers! Go to this link here for more: [Hardware](https://signalspielplatz.de/Hardware.html)
@@ -10,7 +11,7 @@ A: 439.9875 MHz
 A: We won't be able to hand out / sell any pagers at 39c3, as we're still in the prototyping stage and don't have spare kits availabe. 
 
 **Q: Can I borrow a pager at 39c3 to try it out?**  
-A: We won't have enough pagers ready until then to hand out loaners; but you might get the chance to try one out at our assembly when we're not using all of them for running tests.
+A: We probably won't have enough pagers ready until then to hand out loaners; but we're looking for people interestered in testing two prototype versions at our assembly and give feedback.
 
 **Q: Do you have an open repository / info on how to build my own pager?**  
 A: At the moment, we are in a heavy development phase. Please bear with us as we are currently unable to provide anything for you to replicate.
@@ -18,6 +19,8 @@ A: At the moment, we are in a heavy development phase. Please bear with us as we
 **Q: Will the ChaosPager run Meshtastic?**  
 A: At least one of our prototype versions is Meshtastic compatible, and it's definitely something we're still keeping in mind for further development!
 
+
+# Glossary
 **Q: What is DAPNET and POCSAG?**  
 A: [DAPNET (Decentralized Amateur Paging Network)](https://en.wikipedia.org/wiki/DAPNET) is a community-driven network used by amateur radio operators to send pager messages worldwide. It relies on [POCSAG](https://en.wikipedia.org/wiki/Radio-paging_code_No._1), a classic digital paging protocol from the 1980s that defines how messages are encoded and transmitted over the air. In short: POCSAG is the radio protocol, and DAPNET is the modern network that uses it to deliver messages to pagers.
 
