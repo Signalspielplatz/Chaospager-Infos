@@ -19,7 +19,7 @@ A: At the moment, we are in a heavy development phase. Please bear with us as we
 **Q: Will the ChaosPager run Meshtastic?**  
 A: At least one of our prototype versions is Meshtastic compatible, and it's definitely something we're still keeping in mind for further development!
 
-**Q: I'm new to this, how can I receive your broadcasts if you don't sell any pagers?**  
+**Q: I'm new to this, how can I receive your broadcasts?**  
 A: You can use any commercial pager (original or modded) as long as it is capable of receiving on 439.9875 MHz and can be programmed to the RICs we use! Alternatively, there are ways to utilize an RTL-SDR for this purpose.
 
 
