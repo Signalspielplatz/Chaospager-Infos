@@ -30,7 +30,7 @@ A: A RIC (Radio Identity Code) is a pager’s address represented as a fixed-len
 Multiple pagers can programmed to the same RIC, and one pager can be programmed to receive more than one RIC. Therefore, a group of pagers can be alerted at once — which is our goal for the cooperation with CERT — and each pager can "subscribe" to multiple topics.
 
 **Q: What/Who is DL0TUH?**  
-A: [DL0TUH](https://de.wikipedia.org/wiki/DL0TUH) is the amateur radio society at the Hamburg University of Technology. We are collaborating with them to realize our project.
+A: [DL0TUH](https://de.wikipedia.org/wiki/DL0TUH) is the amateur radio group at the Hamburg University of Technology. We are collaborating with them to realize our project.
 
 **Q: I'm new to this, how can I receive your broadcasts if you don't sell any pagers?**  
 A: You can use any commercial pager (original or modded) as long as it is capable of receiving on 439.9875 MHz and can be programmed to the RICs we use! Alternatively, there are ways to utilize an RTL-SDR for this purpose.
