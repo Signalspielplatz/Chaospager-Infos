@@ -1,7 +1,7 @@
 # Chaospager FAQ
 
 **Q: What model of pagers are you using?**  
-A: We're building our own pagers! Goto this link here for more: [Hardware](https://signalspielplatz.de/Hardware.html)
+A: We're building our own pagers! Go to this link here for more: [Hardware](https://signalspielplatz.de/Hardware.html)
 
 **Q: What frequency will be used for public broadcasts at 39c3?**  
 A: 439.9875 MHz
