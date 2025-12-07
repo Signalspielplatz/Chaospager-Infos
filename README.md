@@ -6,6 +6,8 @@ All official information about the ChaosPager developed by Signalspielplatz
 
 All about the hardware can be found [HERE](/Hardware.md)
 
+FAQ can be found [HERE](/FAQ.md)
+
 # Blogpost from C3 Blog
 
 ## About the project
