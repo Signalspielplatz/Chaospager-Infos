@@ -1,9 +1,25 @@
 # ChaosPager Hardware
 
-The 39c3 Prototypes are based on a mainboard which holds everything together and has some soldered on sub-PCBs for logical fuctions.
+The 39c3 prototypes are structured around on a mainboard comprising of a microcontroller and RF-
 
 ## Mainboard
 > ❗️WIP
+
+The mainboard is the heart of our pager, connecting all functional sections to each other while still giving us plenty of opportunities to implement spontaneous ideas through connection points at the side of the board. Size-wise, our 39c3 prototypes are a bit larger than commercially available counterparts. This trade-off had to be made for the goal of a very flexible experimentation platform. On top of the pager functionality, we try to stay compatible with the Meshtastic firmware so that the project can get a second use.
+
+### User Interface
+
+An important specification by CERT is that our pagers need to have a similar UI to commonly used pagers in Germany by BOS ("Behörden und Organisationen mit Sicherheitsaufgaben", eng. 'public safety agencies'. In short: ambulances, firefighters, police, ...). The main competitors on the market are Swissphone POCSAG pagers and the more modern Motorola TETRA pagers. We had many discussions about the best design and button layout and settled for a T-shaped layout, which we expect to be intuitive for the majority of users. With this design, you get two buttons for up/down navigation and two buttons below the display which get assign functions depending on the currently displayed menu. This designs fullfills the specification of a commonly used design, as well as giving unexperienced operators a headstart through direct labeling through the display output. 
+
+For 39c3 there are two PCB versions with different button layouts. We would love to have many people try out the UIs at our assembly and discuss the user experience. You can find us on C3NAV during congress as "Signalspielplatz".
+
+### Hardware deepdive
+
+For everyone interested in technical details:
+
+As main-controller, an ESP32-C3 SuperMini board is used. This has already a USB port on it for firmware upload which is a bit error prone in hand assembly of the boards. The controller has plenty of computational power for our application, maybe even a bit too much power 😉. Currently, the WiFi and Bluetooth features are not used by our firmware but there are several ideas for ongoing development to utilize those interfaces. A nice side effect of the controller is that it is also supported by the Meshtastic firmware.
+
+Due to a lack of usable GPIO pins on the ESP32-C3, a port expander, namely TCA9554PW from Texas Instruments, is used.
 
 ## Radio Board
 
