@@ -26,7 +26,8 @@ A: [DAPNET (Decentralized Amateur Paging Network)](https://en.wikipedia.org/wiki
 A: A pager is a small, wireless receiver designed to get short messages over radio. Before smartphones, pagers were widely used by hospitals, emergency services, and nerds of the ’90s to receive alerts quickly and reliably. Unlike phones, pagers don’t send messages back — they simply listen on a specific frequency and display whatever messages are broadcast to their address (called a RIC). They’re simple, robust, and great for experimenting with radio tech today.
 
 **Q: What is a RIC?**  
-A: A RIC (Radio Identity Code) is the pager’s address represented as a fixed-length bit sequence in the POCSAG protocol. Each transmitted message includes this address, and the pager scans the incoming bitstream, only accepting frames where the address bits match its programmed RIC. This bit-level filtering lets many pagers share one frequency without mixing up messages.
+A: A RIC (Radio Identity Code) is a pager’s address represented as a fixed-length bit sequence in the POCSAG protocol. Each transmitted message includes this address, and the pager scans the incoming bitstream, only accepting frames where the address bits match its programmed RIC. This bit-level filtering lets many pagers share one frequency without mixing up messages.
+Multiple pagers can programmed to the same RIC, and one pager can be programmed to receive more than one RIC. Therefore, a group of pagers can be alerted at once — which is our goal for the cooperation with CERT — and each pager can "subscribe" to multiple topics.
 
 **Q: What/Who is DL0TUH?**  
 A: [DL0TUH](https://de.wikipedia.org/wiki/DL0TUH) is the amateur radio society at the Hamburg University of Technology. We are collaborating with them to realize our project.
