@@ -2,7 +2,7 @@
 (For explanations of some basic terminology, go to [Glossary](#glossary))
 
 **Q: What model of pagers are you using?**  
-A: We're building our own pagers! Go to this link here for more: [Hardware](https://signalspielplatz.de/Hardware.html)
+A: We're building our own pagers! Follow this link for more information: [Hardware](https://signalspielplatz.de/Hardware.html)
 
 **Q: What frequency will be used for public broadcasts at 39c3?**  
 A: 439.9875 MHz
