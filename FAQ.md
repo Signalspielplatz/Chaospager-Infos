@@ -34,11 +34,12 @@ A few members of our group have Alphapoc or modded Skyper pagers for reception t
 A: A pager is a small, wireless receiver designed to receive short messages over radio. Before smartphones, pagers were widely used by hospitals, emergency services, and nerds of the ’90s to receive alerts quickly and reliably. Unlike phones, pagers don’t send messages back — they simply listen on a specific frequency and display whatever messages are broadcast to their address (called a RIC). They’re simple, robust, and great for experimenting with radio tech today.
 
 **Q: What is DAPNET and POCSAG?**  
-A: [DAPNET (Decentralized Amateur Paging Network)](https://en.wikipedia.org/wiki/DAPNET) is a community-driven network used by amateur radio operators to send pager messages worldwide. It relies on [POCSAG](https://en.wikipedia.org/wiki/Radio-paging_code_No._1), a classic digital paging protocol from the 1980s that defines how messages are encoded and transmitted over the air. In short: POCSAG is the radio protocol, and DAPNET is the modern network that uses it to deliver messages to pagers.
+A: [DAPNET (Decentralized Amateur Paging Network)](https://en.wikipedia.org/wiki/DAPNET) is a community-driven network used by amateur radio operators to send pager messages worldwide. It relies on [POCSAG](https://en.wikipedia.org/wiki/Radio-paging_code_No._1), a classic digital paging protocol from the 1980s that defines how messages are encoded and transmitted over the air.   
+In short: POCSAG is the radio protocol, and DAPNET is the modern network that uses it to deliver messages to pagers.
 
 
 **Q: What is a RIC?**  
-A: A RIC (Radio Identity Code) is a pager’s address represented as a fixed-length bit sequence in the POCSAG protocol. Each transmitted message includes this address, and the pager scans the incoming bitstream, only accepting frames where the address bits match its programmed RIC. This bit-level filtering lets many pagers share one frequency without mixing up messages.
+A: A RIC (Radio Identity Code) is a pager’s address represented as a fixed-length bit sequence in the POCSAG protocol. Each transmitted message includes this address, and the pager scans the incoming bitstream, only accepting frames where the address bits match its programmed RIC. This bit-level filtering lets many pagers share one frequency without mixing up messages.   
 Multiple pagers can programmed to the same RIC, and one pager can be programmed to receive more than one RIC. Therefore, a group of pagers can be alerted at once — which is our goal for the cooperation with CERT — and each pager can "subscribe" to multiple topics.
 
 **Q: Who/what is DL0TUH?**  
