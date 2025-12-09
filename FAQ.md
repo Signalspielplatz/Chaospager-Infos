@@ -22,9 +22,9 @@ A: At least one of our prototype versions is Meshtastic compatible, and it's def
 **Q: I'm new to this, how can I receive your broadcasts?**  
 A: You can use any commercial pager (original or modded) as long as it is capable of receiving on 439.9875 MHz and can be programmed to the RICs we use! Alternatively, there are ways to utilize an RTL-SDR for this purpose.
 
-For compatible pager models, you can refer to this [overview](https://hampager.de/dokuwiki/doku.php#overview_of_paging_receivers).   
-Please note that depending on the model, you will need to replace the quartz or at least use a physical interface to program the RIC.
-A few members of our group have Alphapoc or modded Skyper pagers for reception tests.
+*For compatible pager models, you can refer to this [overview](https://hampager.de/dokuwiki/doku.php#overview_of_paging_receivers)..  
+❗️Please note that depending on the model, you will need to replace the quartz or at least use a physical interface to program the RIC.
+A few members of our group have Alphapoc or modded Skyper pagers for reception tests. While some users have reported successful tests, we cannot guarantee compatibility for all devices.*
 
 
 # Glossary
