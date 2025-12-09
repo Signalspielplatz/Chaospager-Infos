@@ -2,7 +2,7 @@
 
 All official information about the ChaosPager developed by Signalspielplatz
 
-> ❗️Important: The project is in active development and specifications may change without updating this page. All information are preliminary.
+> ❗️Important: The project is in active development and specifications may change without updating this page. All information is preliminary.
 
 All about the hardware can be found [HERE](/Hardware.md)
 
