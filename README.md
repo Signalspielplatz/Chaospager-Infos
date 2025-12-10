@@ -42,4 +42,4 @@ Please note that we cannot guarantee anything during operation, as we also need 
 
 ## Further updates until the congress
 
-In the meantime until congress, make sure to follow us on Mastodon, were we will post regular updates of our project: [https://mastodon.social/@signalspielplatz](https://mastodon.social/@signalspielplatz)
+In the meantime until congress, make sure to follow us on Mastodon, where we will post regular updates of our project: [https://mastodon.social/@signalspielplatz](https://mastodon.social/@signalspielplatz)
