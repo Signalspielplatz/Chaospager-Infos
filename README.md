@@ -28,18 +28,18 @@ If you would like to obtain a general sense of what it takes to do such a projec
 
 Are you interested in pagers in general, do you own one, or would you like to test our system with other software solutions?
 
-We operate our system on 439.9875MHz. We provide you the following RICS:
+We operate our system on 439.9875MHz. We provide you the following RICs:
 
 | RIC  | Description          |
 | ---- | -------------------- |
-| 8    | Sender-ID (DL0TUH)   |
+| 8    | Transmitter ID (DL0TUH)   |
 | 1111 | Info                 |
 | 1122 | Tests                |
-| 1140 | Eventinfos Room Zero |
-| 1141 | Eventinfos Room One  |
-| 1142 | Eventinfos Room Ground|
-| 1143 | Eventinfos Room Fuse |
-| 1150 | Eventinfos All Rooms |
+| 1140 | Event Info Room Zero |
+| 1141 | Event Info Room One  |
+| 1142 | Event Info Room Ground|
+| 1143 | Event Info Room Fuse |
+| 1150 | Event Info All Rooms |
 | 2504 | Date & Time (Skyper) |
 
 
