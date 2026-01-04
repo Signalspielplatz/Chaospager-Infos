@@ -4,7 +4,7 @@
 
 - DAPNET announcement
 - Research Questions
-- Link talk in English
+- [Our talk at 39c3](https://media.ccc.de/v/39c3-chaospager-how-to-construct-an-open-pager-system-for-c3)
 
 <H3>Norddeutscher Funktag</H3>
 
