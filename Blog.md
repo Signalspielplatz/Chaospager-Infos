@@ -1,3 +1,5 @@
+Navigation: [FAQ](https://signalspielplatz.de/FAQ.html) [HARDWARE](https://signalspielplatz.de/Hardware.html) [HOME](https://signalspielplatz.de)
+
 <H1>Updates</H1>
 <H2>January 2026</H2>
 <H3>Recap 39c3</H3>
