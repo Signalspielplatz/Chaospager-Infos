@@ -1,3 +1,6 @@
+Navigation: [BLOG](https://signalspielplatz.de/blog.html) [HARDWARE](https://signalspielplatz.de/Hardware.html) [HOME](https://signalspielplatz.de)
+
+
 # Chaospager FAQ
 (For explanations of some basic terminology, go to [Glossary](#glossary))
 
