@@ -12,7 +12,7 @@ Our time at the congress was structured around the following research questions:
 - RQ1: Are the POCSAG transmitters able to cover the congress area?
 
 -> A: We had good coverage in most of the building, except for the loading area, and collected data to use in further lab tests.
-- RQ2: Can <i>Dapnet 2.0 Alpha core </i> orchestrate a small sized transmitter network?
+- RQ2: Can <i>DAPNET Core 2.0 Alpha </i> orchestrate a small sized transmitter network?
  
 -> A: Yes!
 - RQ3: What is the alignment of the reception sensitivity beween values measures in the lab and the real world?
