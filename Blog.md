@@ -2,7 +2,7 @@ Navigation: [FAQ](https://signalspielplatz.de/FAQ.html) [HARDWARE](https://signa
 
 <H1>Updates</H1>
 <H2>January 2026</H2>
-<H3>Recap 39c3</H3>
+<H3>Recap of 39c3</H3>
 
 During our talk at 39c3, we had the great honor to announce — in Hall 1, to put the cherry on the cake  — we're currently the very first project to run and test <b><i>DAPNET Core 2.0 Alpha</b></i>! This means we'll be able to connect to <i>THOT</i> (the management software CERT uses) via REST API, as well as a free hand to use our current solution for all necessary purposes due to the MIT license (instead of being limited to experiments conducted within amateur radio guidelines). 
 
