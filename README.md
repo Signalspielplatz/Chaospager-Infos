@@ -1,3 +1,4 @@
+Navigation: [FAQ](https://signalspielplatz.de/FAQ.html) [HARDWARE](https://signalspielplatz.de/Hardware.html) [BLOG](https://signalspielplatz.de/Blog.html)
 # ChaosPager Infos
 
 All official information about the ChaosPager developed by Signalspielplatz
