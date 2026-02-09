@@ -28,4 +28,4 @@ And thanks to one of the neighboring assemblies, we had easy access to Mate slus
 
 <H3>Norddeutscher Funktag</H3>
 
-For the second time now, we set up our assembly at [Norddeutscher Funktag](https://dl0tuh.de/funktag/index.php), which takes places in Hamburg as well, namely at the Hamburg University of Techology (TUHH). This year, it happened just a few days after 39C3, on the 3rd of January. For the first time, a few talks at this event were recorded. you can find our talk (in German) here: https://www.youtube.com/watch?v=8KYjLKCjLig
+For the second time now, we set up our assembly at [Norddeutscher Funktag](https://dl0tuh.de/funktag/index.php), which takes places in Hamburg as well, namely at the Hamburg University of Techology (TUHH). This year, it happened just a few days after 39C3, on the 3rd of January. For the first time, a few talks at this event were recorded. You can find our talk (in German) [here on YouTube](https://www.youtube.com/watch?v=8KYjLKCjLig).
