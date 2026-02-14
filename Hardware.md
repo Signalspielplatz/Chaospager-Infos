@@ -1,3 +1,5 @@
+Navigation: [HOME](https://signalspielplatz.de/) [FAQ](https://signalspielplatz.de/FAQ.html) [BLOG](https://signalspielplatz.de/Blog.html)
+
 # ChaosPager Hardware
 
 The 39c3 prototypes are structured around on a mainboard comprising of a microcontroller and RF-
